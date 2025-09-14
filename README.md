@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kamran Ibrahim
 
-🚀 **Flutter Developer | Mobile Enthusiast | Open Source Contributor**
+**Flutter Developer | Mobile Enthusiast | Open Source Contributor**
 
 I’m a passionate Flutter developer with **3+ years of experience** building scalable and high-performing mobile applications.  
 Currently working at [iTitans](https://ititans.com), I focus on creating smooth user experiences, clean architectures, and reusable packages.
