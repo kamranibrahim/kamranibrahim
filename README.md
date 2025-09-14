@@ -24,9 +24,9 @@ Currently working at [iTitans](https://ititans.com), I focus on creating smooth 
 ---
 
 ## 📦 Packages
-- 🔹 [request_mate](https://pub.dev/packages/request_mate) → A simple and powerful HTTP client package for Flutter/Dart.
-- 🔹 [read_more_html](https://pub.dev/packages/read_more_html) → A Flutter widget to trim and expand HTML content with "read more/read less" functionality.  
-- 🔹 [mp_month_picker](https://pub.dev/packages/mp_month_picker) → A customizable month & year picker for Flutter.  
+- [request_mate](https://pub.dev/packages/request_mate) → A simple and powerful HTTP client package for Flutter/Dart.
+- [read_more_html](https://pub.dev/packages/read_more_html) → A Flutter widget to trim and expand HTML content with "read more/read less" functionality.  
+- [mp_month_picker](https://pub.dev/packages/mp_month_picker) → A customizable month & year picker for Flutter.  
 
 ---
 
