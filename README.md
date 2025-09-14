@@ -17,7 +17,7 @@ Currently working at [iTitans](https://ititans.com), I focus on creating smooth 
 - In-App Payments (Stripe, PayPal)  
 - Push Notifications (OneSignal, Firebase Cloud Messaging)  
 - Deep Links & Dynamic Links  
-- API Integration (REST, GraphQL)  
+- API Integration  
 - State Management (GetX, Provider, Riverpod)  
 - App Store & Play Store Release Management  
 
