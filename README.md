@@ -12,7 +12,7 @@ Currently working at [iTitans](https://ititans.com), I focus on creating smooth 
 - **Framework:** Flutter  
 
 ### Tools & Platforms
-- CI/CD (GitHub Actions, Codemagic, Bitrise)  
+- CI/CD 
 - App Flavors (multi-environment setup)  
 - In-App Payments (Stripe, PayPal)  
 - Push Notifications (OneSignal, Firebase Cloud Messaging)  
