@@ -14,7 +14,7 @@ Currently working at [iTitans](https://ititans.com), I focus on creating smooth 
 ### Tools & Platforms
 - CI/CD (GitHub Actions, Codemagic, Bitrise)  
 - App Flavors (multi-environment setup)  
-- In-App Payments (Stripe, PayPal, Google Pay, Apple Pay)  
+- In-App Payments (Stripe, PayPal)  
 - Push Notifications (OneSignal, Firebase Cloud Messaging)  
 - Deep Links & Dynamic Links  
 - API Integration (REST, GraphQL)  
