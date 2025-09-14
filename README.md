@@ -32,7 +32,6 @@ Currently working at [iTitans](https://ititans.com), I focus on creating smooth 
 
 ## 🌱 Currently Exploring
 - Advanced Flutter performance optimizations  
-- Custom reusable Flutter widgets & packages  
 - Automated deployment pipelines  
 ---
 
