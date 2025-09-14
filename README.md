@@ -34,15 +34,9 @@ Currently working at [iTitans](https://ititans.com), I focus on creating smooth 
 - Advanced Flutter performance optimizations  
 - Custom reusable Flutter widgets & packages  
 - Automated deployment pipelines  
-
----
-
-## 📊 GitHub Stats
-![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamranibrahim&show_icons=true&theme=radical)
-
 ---
 
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/kamran-ibrahim-052714246/)  
-- [Email](mailto:youremail@example.com)  
+- [Email](mailto:devtime3@gmail.com)  
 
