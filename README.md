@@ -38,7 +38,7 @@ Currently working at [iTitans](https://ititans.com), I focus on creating smooth 
 ---
 
 ## 📊 GitHub Stats
-![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamran-ibrahim&show_icons=true&theme=radical)
+![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamranibrahim&show_icons=true&theme=radical)
 
 ---
 
