@@ -36,10 +36,12 @@ Currently working at [iTitans](https://ititans.com), I focus on creating smooth 
   
 ---
 
-## GitHub Streaks
+## 🔥 GitHub Streaks
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kamranibrahim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 
