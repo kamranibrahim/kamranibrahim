@@ -36,6 +36,7 @@ Currently working at [iTitans](https://ititans.com), I focus on creating smooth 
 ---
 
 ## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/kamran-ibrahim-052714246/)  
-- [Email](mailto:devtime3@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kamran-ibrahim-052714246/)  
+[![Email](https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail)](mailto:devtime3@gmail.com)
+ 
 
