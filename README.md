@@ -32,7 +32,15 @@ Currently working at [iTitans](https://ititans.com), I focus on creating smooth 
 
 ## 🌱 Currently Exploring
 - Advanced Flutter performance optimizations  
-- Automated deployment pipelines  
+- Automated deployment pipelines
+  
+---
+
+## GitHub Streaks
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kamranibrahim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ---
 
 ## 📫 Connect With Me
