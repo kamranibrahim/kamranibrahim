@@ -18,7 +18,7 @@ Currently working at [iTitans](https://ititans.com), I focus on creating smooth 
 - Push Notifications (OneSignal, Firebase Cloud Messaging)  
 - Deep Links & Dynamic Links  
 - API Integration  
-- State Management (GetX, Provider, Riverpod)  
+- State Management (GetX, Provider)  
 - App Store & Play Store Release Management  
 
 ---
