@@ -54,6 +54,9 @@ Currently working at [iTitans](https://ititans.com), I focus on creating smooth 
   <a href="mailto:devtime3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://medium.com/@kamranibrahim">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
 </p>
  
 
