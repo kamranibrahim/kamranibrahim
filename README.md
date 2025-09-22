@@ -2,7 +2,7 @@
 
 **Flutter Developer | Mobile Enthusiast | Open Source Contributor**
 
-I’m a passionate Flutter developer with **3.5+ years of experience** building scalable and high-performing mobile applications.  
+I’m a passionate Flutter developer with **4 years of experience** building scalable and high-performing mobile applications.  
 Currently working at [iTitans](https://ititans.com), I focus on creating smooth user experiences, clean architectures, and reusable packages.
 
 ---
